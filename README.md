@@ -50,10 +50,14 @@ DIFFERENTIATOR
 <img width="757" height="447" alt="image" src="https://github.com/user-attachments/assets/3bb38583-c020-43ad-8b15-c03f1f545842" />
 
 TABULATION:
+<img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/303d5ac1-cf28-4a7e-ae55-0a004ca0dc2c" />
 
 
 GRAPH:
+<img width="963" height="1280" alt="image" src="https://github.com/user-attachments/assets/ef664795-add4-4907-b139-7b744e311c67" />
 
+<img width="999" height="1280" alt="image" src="https://github.com/user-attachments/assets/21490306-9d64-40e9-a503-48ea62fa4f3b" />
 
 RESULT:
 
+Thus , the differentiator circuit is designed and tested using OP-AMP
